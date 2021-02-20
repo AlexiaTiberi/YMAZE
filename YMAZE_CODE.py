@@ -6,7 +6,6 @@
 
 #import usefull stuff
 import csv
-from IPython.display import clear_output
 
 #defining the analysis function
 def ymaze():
@@ -51,17 +50,4 @@ while active:
     else:
         print ("Enter either the word quit or n: \n")
     
-            
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+           
