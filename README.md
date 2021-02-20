@@ -1,0 +1,2 @@
+# YMAZE
+YMAZE_CODE
