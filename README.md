@@ -1,7 +1,4 @@
-# Behavior_Code
-Code written to analyze some simple neuroscience behavioral paradigms:
-
-## YMAZE_CODE: 
+# YMAZE_CODE: 
 As neuroscientists, we are probably all familiar with the Y maze test, a test to evaluate spatial working memory in mice.
 To put it simply, the mouse is put in a maze, which unsurprisingly has a Y shape, and the researcher must record the sequence of arm entries during a mouse exploration of the maze. Here's the maze:
 ![alt text](https://github.com/AlexiaTiberi/Behavior_Code/blob/main/ymaze.png) 
