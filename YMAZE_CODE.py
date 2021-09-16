@@ -32,7 +32,7 @@ def ymaze():
                 str_count5 = str.count('cab')
                 str_count6 = str.count('cba')
                 alt=str_count1+ str_count2+str_count3+str_count4+str_count5+str_count6
-                altentr = 100*(alt/totnumentr)
+                altentr = 100*(alt/(totnumentr-2))
         writer.writerow([animal, str, totnumentr, alt, altentr])
         print("you have entered {} = {} \n".format(animal, str))       
 #create the csv file and write headers        
